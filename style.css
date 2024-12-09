@@ -1,0 +1,76 @@
+/* open-sans-regular - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/open-sans-v40-latin/open-sans-v40-latin-regular.woff2') format('woff2');
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* open-sans-700 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./fonts/open-sans-v40-latin/open-sans-v40-latin-700.woff2') format('woff2');
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+:root {
+    --main-bg-color: #f4fdfb;
+    --primary-color: #1D1F3A;
+    --secondary--color: #7dcce8;
+    --thid-color: #a9d3a9;
+}
+
+html {
+    font-family: 'Open Sans';
+    background-color: var(--main-bg-color);
+}
+
+h1,h2,h3{
+    text-align: center;
+    word-break: break-word;
+    hyphens: auto;
+}
+
+h1 {
+    color: var(--primary-color);
+    font-size: 3rem;
+}
+h2{
+    color: var(--primary-color);
+    font-size: 2rem;
+}
+
+b {
+    color: var(--primary-color);
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+    main {
+        max-width: 90vw;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    main {
+        max-width: 769px;
+    }
+}
+
+.logos {
+    max-width: 100%;
+}

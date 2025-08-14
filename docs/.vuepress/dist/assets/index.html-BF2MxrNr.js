@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as n}from"./app-iytjdm6V.js";const r={};function a(i,c){return n(),t("div")}const l=e(r,[["render",a]]),m=JSON.parse('{"path":"/Terminverwaltung/Einzeltermine/","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"Terminverwaltung/Einzeltermine/index.md"}');export{l as comp,m as data};

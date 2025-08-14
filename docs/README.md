@@ -1,7 +1,7 @@
 ---
 home: true
 title: Übersicht
-heroImage: ./DSG-Icon.png
+heroImage: "./DSG-Icon.png"
 heroText: Der Smarte Gemeinschaftskalender
 tagline: Alle Termine im Blick – die Open-Source-Lösung für eine starke Gemeinschaft
 actions:

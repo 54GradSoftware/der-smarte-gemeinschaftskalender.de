@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app-iytjdm6V.js";const n={};function r(s,o){return a(),t("div")}const l=e(n,[["render",r]]),i=JSON.parse('{"path":"/Terminverwaltung/Veranstaltungskategorien.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"Terminverwaltung/Veranstaltungskategorien.md"}');export{l as comp,i as data};

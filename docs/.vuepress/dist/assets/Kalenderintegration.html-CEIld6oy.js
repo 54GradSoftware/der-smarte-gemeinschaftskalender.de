@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./app-iytjdm6V.js";const r={};function a(o,i){return n(),t("div")}const l=e(r,[["render",a]]),s=JSON.parse('{"path":"/Terminverwaltung/Kalenderintegration.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"Terminverwaltung/Kalenderintegration.md"}');export{l as comp,s as data};

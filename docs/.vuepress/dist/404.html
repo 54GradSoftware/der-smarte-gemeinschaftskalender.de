@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="generator" content="VuePress 2.0.0-rc.20" />
+    <style>
+      :root {
+        --vp-c-bg: #fff;
+      }
+
+      [data-theme='dark'] {
+        --vp-c-bg: #1b1b1f;
+      }
+
+      html,
+      body {
+        background-color: var(--vp-c-bg);
+      }
+    </style>
+    <script>
+      const useChoice = localStorage.getItem('vuepress-color-scheme')
+      const systemStatus =
+        'matchMedia' in window
+          ? window.matchMedia('(prefers-color-scheme: dark)').matches
+          : false
+
+      if (useChoice === 'light') {
+        document.documentElement.dataset.theme = 'light'
+      } else if (useChoice === 'dark' || systemStatus) {
+        document.documentElement.dataset.theme = 'dark'
+      }
+    </script>
+    <title>VuePress</title><meta name="description" content="My first VuePress Site">
+    <link rel="preload" href="/assets/style-B3-VMakp.css" as="style"><link rel="stylesheet" href="/assets/style-B3-VMakp.css">
+    <link rel="modulepreload" href="/assets/app-iytjdm6V.js"><link rel="modulepreload" href="/assets/404.html-BdBErLGF.js">
+    <link rel="prefetch" href="/assets/index.html-BjCA_ALd.js" as="script"><link rel="prefetch" href="/assets/get-started.html-WLA8hCC8.js" as="script"><link rel="prefetch" href="/assets/Formatierungsbeispiele.html-C1afA8uv.js" as="script"><link rel="prefetch" href="/assets/Kalenderintegration.html-CEIld6oy.js" as="script"><link rel="prefetch" href="/assets/Serientermine.html-BjCU8ZMz.js" as="script"><link rel="prefetch" href="/assets/Veranstaltungskategorien.html-Tm8LyyCU.js" as="script"><link rel="prefetch" href="/assets/Veranstaltungsstatus.html-w1PKrquv.js" as="script"><link rel="prefetch" href="/assets/iCal-Dateien.html-C6JF3agS.js" as="script"><link rel="prefetch" href="/assets/Einzeltermine anlegen.html-DvbAAdHU.js" as="script"><link rel="prefetch" href="/assets/Einzeltermine bearbeiten.html-Blc-dcer.js" as="script"><link rel="prefetch" href="/assets/index.html-BF2MxrNr.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="vp-theme-container" vp-container data-v-ec9917b8><main class="page" data-v-ec9917b8><div vp-content data-v-ec9917b8><h1 data-v-ec9917b8>404</h1><blockquote data-v-ec9917b8>That&#39;s a Four-Oh-Four.</blockquote><a class="route-link" href="/" data-v-ec9917b8>Take me home</a></div></main></div><!--[--><!----><!--]--><!--]--></div>
+    <script type="module" src="/assets/app-iytjdm6V.js" defer></script>
+  </body>
+</html>

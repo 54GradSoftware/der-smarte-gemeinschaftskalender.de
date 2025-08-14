@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./app-iytjdm6V.js";const n={};function a(i,c){return r(),t("div")}const o=e(n,[["render",a]]),s=JSON.parse('{"path":"/Terminverwaltung/Serientermine.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"Terminverwaltung/Serientermine.md"}');export{o as comp,s as data};

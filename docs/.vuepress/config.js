@@ -7,7 +7,7 @@ export default defineUserConfig({
   description: 'Der Smarte Gemeinschaftskalender',
 
   theme: defaultTheme({
-    logo: 'DSG_Logo_Dokumentation.png',
+    logo: 'DSG-Logo-Dokumentation.png',
 
     navbar: [
   { text: 'Handbuch', link: '/get-started' },

@@ -14,13 +14,13 @@ Dieser Dokumentationsbereich führt Sie Schritt für Schritt durch die Funktione
 
 * Im [Markenkit](#markenkit) haben Sie die Möglichkeit Farben, Schriften und Hintergründe Ihrer Organisation zu hinterlegen, um diese dauerhaft **wiederverwenden** zu können.
 
-* Für **inklusive Werbemittel** sollte zudem unbedingt auf [barrierefreie Gestaltungsprinzipien](#barrierefreie-gestaltungsprinzipien) geachtet werden.
+* Für **inklusive Werbemittel** sollte zudem unbedingt auf [barrierefreie Gestaltungsprinzipien](/Barrierefreiheit/#gestaltungsprinzipien-fur-barrierefreie-inhalte) geachtet werden.
 
 ## Bedienung des Werbemittelgenerators
 
 Für den Werbemittelgenerator gibt es **zwei Anwendungsfälle:**
 
-Sie können entweder eine [Veranstaltungsübersicht](#werbemittelgenerator-für-veranstaltungsübersichten) mit mehreren anstehenden Terminen oder eine [Ankündigung für eine einzelne Veranstaltung](#werbemittelgenerator-für-einzelne-veranstaltungen) erstellen.
+Sie können entweder eine [Veranstaltungsübersicht](./#werbemittelgenerator-fur-veranstaltungsubersichten) mit mehreren anstehenden Terminen oder eine [Ankündigung für eine einzelne Veranstaltung](./#werbemittelgenerator-fur-ankundigungen-einzelner-veranstaltungen) erstellen.
 
 Das Aufrufen der jeweiligen Generatoren und deren Aufbau unterscheidet sich leicht. 
 
@@ -38,7 +38,9 @@ Mit dem **Werbemittelgenerator für Veranstaltungsübersichten** können Sie bis
 Der Generator bietet verschiedene Optionen, um Ihre Übersicht individuell zu gestalten. Sofern Designvorgaben Ihrer Organisation im [Markenkit](#markenkit) hinterlegt wurden, werden diese automatisch geladen.
 
 1. **Format:**  
-   Wählen Sie zunächst das gewünschte Format – Social-Media-Post, Story oder Full DH.
+   Wählen Sie zunächst das gewünschte Format – Social-Media-Post, Story, Full HD oder Text.
+
+   **Hinweis:** Beim Format *Text* werden Hintergrundbild, Logo und Überschrift nicht verwendet.
 
 2. **Zeitraum:**  
    Definieren Sie den Zeitraum, für den die Veranstaltungen angezeigt werden sollen.  
@@ -47,7 +49,7 @@ Der Generator bietet verschiedene Optionen, um Ihre Übersicht individuell zu ge
 3. **Hintergrundbild:**  
    - Laden Sie ein Bild per **Drag & Drop** oder über die Schaltfläche *Datei auswählen* hoch.  
    - Wenn im [Markenkit](#markenkit) bereits ein Hintergrundbild hinterlegt ist, wird dieses automatisch geladen.  
-   - Wenn Sie individuelle Hintergrunddesigns für Ihre Organisation gestalten möchten, finden Sie Detaillierte Hinweise im Abschnitt [Richtlinien für die Hintergrunderstellung](#richtlinien-fur-die-hintergrunderstellung). Zudem können Sie unsere [gebrauchsfertigen Hintergründe](#hintergründe-für-veranstaltungsübersichten) herunterladen und frei nutzen.  
+   - Wenn Sie individuelle Hintergrunddesigns für Ihre Organisation gestalten möchten, finden Sie detaillierte Hinweise im Abschnitt [Richtlinien für die Hintergrunderstellung](#richtlinien-fur-die-hintergrunderstellung). Zudem können Sie unsere [gebrauchsfertigen Hintergründe](./#hintergrunde-fur-veranstaltungsubersichten) herunterladen und frei nutzen.  
    - Bereits hochgeladene Bilder können durch das Hochladen eines neuen Bildes ersetzt werden.
 
 4. **Logo:**  
@@ -66,7 +68,7 @@ Der Generator bietet verschiedene Optionen, um Ihre Übersicht individuell zu ge
    - Auch die Farbe der **Trennlinien** kann individuell festgelegt werden.
 
 7. **Farbwahl**: 
-Achten Sie auf **barrierefreie Kontraste** (mehr dazu im Abschnitt [Barrierefreie Gestaltungsprinzipien](/Barrierefreiheit/)).
+Achten Sie auf **barrierefreie Kontraste** (mehr dazu im Abschnitt [Barrierefreie Gestaltungsprinzipien](/Barrierefreiheit/#wahrnehmbar)).
 
 8. **Design herunterladen:**
 Wenn Sie mit der Gestaltung zufrieden sind, können Sie die fertige Grafik über den Button **Design herunterladen** lokal auf Ihrem Rechner speichern.
@@ -90,9 +92,9 @@ Sie erreichen diesen Generator auf zwei Wegen:
 
 #### Einstellungen und Funktionen
 
-Je nachdem welcher Kategorie Sie Ihre Veranstaltung zugeordnet haben, wird – sofern Sie keines in ihrem Markenkit hochgeladen haben –, standardmäßig eines unserer [gebrauchsfertigen Hintergründe](#hintergründe-für-akündigungen-einzelner-veranstaltungen) geladen. Diese stehen Ihnen zum Herunterladen und zur freien Nutzung zur Verfügung. 
+Je nachdem welcher Kategorie Sie Ihre Veranstaltung zugeordnet haben, wird – sofern Sie keines in Ihrem Markenkit hochgeladen haben –, standardmäßig einer unserer [gebrauchsfertigen Hintergründe](#ankundigungen-fur-eine-einzelne-veranstaltung) geladen. Diese stehen Ihnen zum Herunterladen und zur freien Nutzung zur Verfügung. 
 
-Darüber hinaus entspricht die Bedienlogik grundsätzlich dem [Generator für Veranstaltungsübersichten](#werbemittelgenerator-für-veranstaltungsübersichten). Für weitere Details zur Bedienung (z. B. **Formatwahl**, **Hintergrundbilder**, **Farb- und Schriftanpassungen**) lesen Sie bitte den Abschnitt [Einstellungen und Funktionen](#einstellungen-und-funktionen) des Generators für Veranstaltungsübersichten.
+Darüber hinaus entspricht die Bedienlogik grundsätzlich dem [Generator für Veranstaltungsübersichten](#werbemittelgenerator-fur-veranstaltungsubersichten). Für weitere Details zur Bedienung (z. B. **Formatwahl**, **Hintergrundbilder**, **Farb- und Schriftanpassungen**) lesen Sie bitte den Abschnitt [Einstellungen und Funktionen](#einstellungen-und-funktionen) des Generators für Veranstaltungsübersichten.
 
 
 ## Richtlinien für die Hintergrunderstellung
@@ -193,7 +195,7 @@ Für die Werbemittelgeneratoren haben wir **universelle Standard-Hintergründe**
   Für beide Formate (**Beitrag** und **Story**) steht je ein Design für jede der **5 Veranstaltungskategorien** zur Auswahl.
 
 Alle Dateien können hier heruntergeladen werden.  
-Sie entsprechen unseren [Gestaltungsrichtlinien für Hintergründe](#richtlinien-für-die-hintergrunderstellung).
+Sie entsprechen unseren [Gestaltungsrichtlinien für Hintergründe](#richtlinien-fur-die-hintergrunderstellung).
 
 ### Hintergründe für Veranstaltungsübersichten
 
@@ -215,7 +217,7 @@ Sie entsprechen unseren [Gestaltungsrichtlinien für Hintergründe](#richtlinien
 ### Markenkit
 
 Im *Markenkit* können Sie das Design Ihrer Werbemittel im *Smarten Gemeinschaftskalender* an das Erscheinungsbild Ihrer Organisation anpassen.  
-Die hier hinterlegten Einstellungen werden automatisch in den Werbemittelgeneratoren für [Veranstaltungsübersichten](#werbemittelgenerator-für-veranstaltungsübersichten) und [Ankündigungen einzelner Veranstaltungen](#werbemittelgenerator-für-ankündigungen-einzelner-veranstaltungen) verwendet. 
+Die hier hinterlegten Einstellungen werden automatisch in den Werbemittelgeneratoren für [Veranstaltungsübersichten](#werbemittelgenerator-fur-veranstaltungsubersichten) und [Ankündigungen einzelner Veranstaltungen](#werbemittelgenerator-fur-ankundigungen-einzelner-veranstaltungen) verwendet. 
 
 Das Markenkit finden Sie als eigenen Reiter im Seitenmenü. Gehen Sie dazu über den Button *Veröffentlichen* oben rechts in den Verwaltungsbereich ihrer Organisation. Wenn Sie mehrere Organisationen verwalten, achten Sie darauf, dass Sie die Richtige ausgewählt haben. Die aktuell ausgewählte Organisation steht oben im Seitenmenü und lässt sich über die Drop-Down-Auswahl einfach ändern.
 
@@ -226,7 +228,7 @@ Das Markenkit finden Sie als eigenen Reiter im Seitenmenü. Gehen Sie dazu über
    <img src="./Bilder/Farbanpassung.png" alt="Beispiel Ausrichtungsprozess einer Veranstaltungsübersicht im Story-Format für den Chaos Computer Club Flensburg e. V. und entfernen der Vorlage vor dem Herunterladen" style="width:200px;">
 
 #### Überschrift (optional)
-Hinterlegen Sie eine **Standardüberschrift** für [Veranstaltungsübersichten](#werbemittelgenerator-für-veranstaltungsübersichten) – zum Beispiel *„Unsere Veranstaltungen"*. Diese wird automatisch in neuen Designs eingefügt, kann aber jederzeit im Generator manuell angepasst oder überschrieben werden.  
+Hinterlegen Sie eine **Standardüberschrift** für [Veranstaltungsübersichten](#werbemittelgenerator-fur-veranstaltungsubersichten) – zum Beispiel *„Unsere Veranstaltungen"*. Diese wird automatisch in neuen Designs eingefügt, kann aber jederzeit im Generator manuell angepasst oder überschrieben werden.  
 
 #### Hintergrundbilder
 Im Markenkit können Sie **Standardhintergründe** für verschiedene Formate hochladen:

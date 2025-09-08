@@ -80,7 +80,7 @@ Dafür stehen Ihnen zwei Wege zur Verfügung:
   
     ![Bildschirmaufnahme der Übersichtstabelle der iCal-Dateien in der Terminverwaltung](./Bilder/iCal-Dateien.png)
      Wählen Sie die entsprechende Datei aus – so gelangen Sie zur **Tabelle aller darin enthaltenen Veranstaltungen**.  
-   ![Bildschirmaufnahme der Terminübersicht einer iCal-Datei](./Bilder/Terminübersicht.png)
+   ![Bildschirmaufnahme der Terminübersicht einer iCal-Datei](./Bilder/terminübersicht.png)
    Klicken Sie auf das **Bearbeiten-Symbol** in der jeweiligen Terminzeile, um den Termin anzupassen.
 
 Sie gelangen jeweils in die Bearbeiten-Ansicht für Einzeltermine. Die Änderungen werden ausschließlich für den ausgewählten Termin übernommen – nicht für die gesamte Datei. Die Änderungen übernehmen Sie, indem Sie am Ende des Formulars auf den Button **Änderungen speichern** klicken.  

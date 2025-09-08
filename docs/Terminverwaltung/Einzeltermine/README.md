@@ -98,6 +98,18 @@ Konkret setzen sich die Kategorien folgendermaßen zusammen:
 * **Gesundheit & Bewegung:** Gesundheit, Sport
 * **Wirtschaft & Bildung:** Wissenschaft & Technologie, Bildung, Wirtschaft & Unternehmen
 
+### Schlagwörter hinzufügen  
+
+Im Bearbeitungsformular können Sie einem Termin **Schlagwörter** zuordnen. Diese helfen, Ihre Veranstaltung in der Suche zu finden und werden auf der Veranstaltungsseite angezeigt. Wählen Sie daher Schlagwörter, die Ihre Veranstaltung möglichst gut beschreiben. Behalten Sie jedoch im Hinterkopf, dass es sich um geläufige Begriffe handeln sollte, nach denen Nutzer*innen potenziell suchen – z. B. Kinder, Fußball, Festival.
+
+Schlagwörter können aus einem oder mehreren Wörtern bestehen. Trennen Sie mehrere Schlagwörter durch ein **Komma**, um sie gleichzeitig hinzuzufügen. Mit einem Klick auf den Button **+ Hinzufügen** werden die Schlagwörter übernommen.  
+
+Unterhalb des Eingabefeldes erscheinen die neu hinzugefügten Schlagwörter. Jedes Schlagwort kann über das **Löschen-Icon (Mülleimer)** wieder entfernt werden.  
+
+Zusätzlich werden Ihnen **Vorschläge** angezeigt. Diese basieren auf Schlagwörtern, die Ihre Organisation bereits in der Vergangenheit genutzt hat. Mit einem Klick können Sie diese Vorschläge ebenfalls übernehmen.  
+
+<img src="./Bilder/Schlagwort.png" alt="Formularbereich um Schlagwörter hinzuzufügen." style="width:600px;">
+
 ### Beitrittsoptionen
 
 Bei den Beitrittsoptionen haben Sie zwei Auswahlmöglichkeiten:
@@ -161,7 +173,10 @@ In beiden Fällen öffnet sich das bereits vorausgefüllte *Bearbeitungsformular
 Wenn Sie alle gewünschten Änderungen vorgenommen haben, speichern Sie diese über den Button am Ende des Formulars. 
 
 ### Status ändern
-**Hinweis:** Die Inhalte zu diesem Bereich werden zeitnah ergänzt.
+Im Bearbeitungsformular eines einzelnen Termins können Sie den **Terminstatus** aktualisieren. Im oberen Bereich des Formulars werden die aktuellen Termindaten angezeigt. In der Zeile *Status* sehen Sie den derzeitigen Status. Mit einem Klick auf einen der beiden nebenstehenden Buttons passen Sie diesen an.
+![Statusanzeige im Bearbeitungsformular](./Bilder/Status.png)
+
+Es öffnet sich ein Pop-up-Fenster, in dem Sie die Änderung bestätigen müssen, um versehentliche Anpassungen zu vermeiden. Die Statusänderung wird sofort übernommen – auch ohne das gesamte Bearbeitungsformular zu speichern.
 
 ## Einzeltermin löschen
 

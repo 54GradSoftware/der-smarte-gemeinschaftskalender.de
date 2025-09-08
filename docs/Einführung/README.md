@@ -76,3 +76,23 @@ Dadurch können Instanzen des Smarten Gemeinschaftskalenders nicht nur miteinand
 * **Digitale Infotafeln:** Automatisierte Anzeige aktueller Veranstaltungen.
 
 Damit ist der Smarte Gemeinschaftskalender nicht nur eine isolierte Plattform, sondern Teil eines **offenen, wachsenden Netzwerks für Veranstaltungen** – flexibel, skalierbar und zukunftssicher.
+
+### Fediverse
+
+**Mobilizon** ist Teil des sogenannten **Fediverse**, womit auch der *Smarte Gemeinschaftskalender* dazugehört. Durch die Nutzung des offenen **ActivityPub-Protokolls** wird nicht nur die Föderation von Kalenderinstanzen ermöglicht, sondern auch die Anbindung an andere Plattformen im Fediverse.
+
+Das **Fediverse** (abgeleitet von *federation* und *universe*) ist ein **dezentral organisiertes Netzwerk** eigenständiger Plattformen, die über offene Standards miteinander kommunizieren können. Anstatt auf proprietäre, zentrale Plattformen wie Facebook oder Google angewiesen zu sein, können Menschen im Fediverse frei eine Anwendung oder Instanz wählen – oder sogar eine eigene betreiben – und dennoch mit allen anderen interagieren.
+
+Ein gemeinsames Prinzip: **Alle Plattformen sind Open Source.**
+
+Das bedeutet, der Quellcode ist öffentlich zugänglich, kann geprüft, verändert und gemeinschaftlich weiterentwickelt werden. So entstehen Transparenz, Datensouveränität und langfristige Unabhängigkeit von großen Konzernen.
+
+Bekannte Beispiele aus dem Fediverse sind:
+* [**Mastodon**](https://joinmastodon.org/de) (Microblogging, ähnlich wie Twitter/X)  
+* [**Pixelfed**](https://pixelfed.org) (Bilder, ähnlich wie Instagram)  
+* [**PeerTube**](https://joinpeertube.org/de) (Videos, ähnlich wie YouTube)  
+* [**Mobilizon**](https://mobilizon.org) (Veranstaltungen und Gruppen – Grundlage des Smarten Gemeinschaftskalenders)
+
+Durch diese offene Struktur werden Inhalte **plattformübergreifend sichtbar und teilbar**. Veranstaltungen im Smarten Gemeinschaftskalender können damit nicht nur lokal in einer Instanz, sondern auch **im gesamten Fediverse verbreitet** werden – z. B. in Mastodon-Timelines.
+
+So wird der *Smarte Gemeinschaftskalender* zu einem **zukunftsfähigen Baustein** digitaler Kommunikation: lokal verankert, aber gleichzeitig Teil eines **weltweiten, offenen Netzwerks**, das auf **Dezentralität, offenen Standards und Open Source** basiert.
